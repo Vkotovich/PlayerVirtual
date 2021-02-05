@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/panels/Intro.css"],"names":[],"mappings":"AAAA,MACE,YAAa,CACb,qBAAsB,CACtB,kBAAmB,CACnB,iBACF,CAEA,kBACE,eACF","file":"main.217a0dc1.chunk.css","sourcesContent":[".User {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  text-align: center;\n}\n\n.User .Cell__main {\n  padding-right: 0;\n}"]}
